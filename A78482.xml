@@ -1,0 +1,273 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certain particulars, further tending to satisfie the tender consciences of such as are required to take the engagement· / Written by a godly and learned divine.</title>
+            <author>Godly and learned divine.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78482</idno>
+            <idno type="STC">Wing C1722</idno>
+            <idno type="STC">Thomason E640_22</idno>
+            <idno type="STC">ESTC R206680</idno>
+            <idno type="EEBO-CITATION">99865795</idno>
+            <idno type="PROQUEST">99865795</idno>
+            <idno type="VID">118046</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78482)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118046)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 98:E640[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certain particulars, further tending to satisfie the tender consciences of such as are required to take the engagement· / Written by a godly and learned divine.</title>
+                  <author>Godly and learned divine.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert White,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug: 28".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118046:1" rendition="simple:additions"/>
+            <p>Certain PARTICVLARS, Further tending to ſatisfie THE Tender Conſciences OF Such as are required to take THE ENGAGEMENT.</p>
+            <p>WRITTEN By a Godly and Learned Divine.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>Robert White,</hi> 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:118046:2"/>
+            <pb n="1" facs="tcp:118046:2"/>
+            <head>Certain Particulars, further ten<g ref="char:EOLhyphen"/>ding to ſatisfie the tender Conſciences of ſuch as are required to take the ENGAGEMENT.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He preſent <hi>Engagement</hi> being a thing new and formerly unknown to our Engliſh Nation,
+<note place="margin">
+                  <hi>Mutatione impe<g ref="char:EOLhyphen"/>riorum rarò mu<g ref="char:EOLhyphen"/>tantur calamita<g ref="char:EOLhyphen"/>tes.</hi> Lopez. Flor. 405.</note> is not eaſi<g ref="char:EOLhyphen"/>ly digeſted of many; for although we read of Principalities amongſt the <hi>Brittains,</hi> an Heptarchy a<g ref="char:EOLhyphen"/>mong the <hi>Saxons,</hi> and a continued Monarchy both by the <hi>Norman</hi> line and long before; Yet before this time, we never heard of a State Government, and therefore no mar<g ref="char:EOLhyphen"/>vell though it work on ſober and ingenious men, who are not acquainted with the affairs of the times, and thereupon are jealous that every change may tend to the worſe, and not to the better. For my part it hath ſtuck with me, and therefore thoſe conſiderations which have ſatisfied me, if they may ſatisfie you, I have my end; however, I hope you will candidly accept what is ſincerely meant.</p>
+            <p n="1">1. The <hi>Engagement</hi> runs thus: <hi>I do promiſe to be faithful to the Common-wealth of England, as now it ſtands, without a King and Houſe of Lords.</hi>
+            </p>
+            <pb n="2" facs="tcp:118046:3"/>
+            <p>
+               <note place="margin">
+                  <hi>Fides cum promit<g ref="char:EOLhyphen"/>titur etiam hoſti<g ref="char:EOLhyphen"/>bus, eſt ſervanda.</hi> Aug. ad Bonoſ. </note>In which firſt, There is the Act, <hi>I do promiſe to be faithful;</hi> that is to ſay, firſt Negatively, we do promiſe not to act any thing ſecretly or openly againſt the Common-wealth: <note place="margin">
+                  <hi>Fidem qui perdi<g ref="char:EOLhyphen"/>dit, nihil poteſt ultra perdere.</hi> Sen.</note> And ſecondly, Affirmatively, to ſtand for it, and endevor the welfare and ſafety of it: Now a Promiſe doth bind as well as an Oath; yet with ſome difference becauſe a Promiſe may be diſſolved by conſent, but an Oath cannot unleſs there be ſome condition either expreſſed or implyed, becauſe it is ſolemnly made to God.</p>
+            <p n="2">2. <note place="margin">
+                  <hi>Reſpublica eſt res populi.</hi> Aug. de civitate Dei. lib. 1.</note> The Object, the Common wealth; By the Com<g ref="char:EOLhyphen"/>mon-wealth may be underſtood 1. the publike Af<g ref="char:EOLhyphen"/>fairs and welfare of the place where his lot is caſt to inhabite, and ſo much the word <hi>reſpublica</hi> doth hold forth. <note place="margin">
+                  <hi>Non mihi ſoli, ſed etia<g ref="char:cmbAbbrStroke">̄</g> multo potius natus ſum patriae.</hi> Cic. Rhetor. li. 1.</note> 2. It may be taken for ſuch a policy, wherein the original of Government lies in the people, both to depoſe Magiſtrates abuſing their Truſt, and to elect and chuſe others in their places. By what hath been ſaid you may ſee what is meant by being faithful, &amp;c. <hi>viz.</hi> 1. To ſeek the welfare of the common affairs of this Nation, and of thoſe grand Priviledges which have coſt our Anceſtors and our ſelves ſuch large expence both of Bullion and blood; As namely, <hi>Magna Charta,</hi> the frequency of Parliaments, and our own civil pro<g ref="char:EOLhyphen"/>priety, to our ſelves and Poſterity. 2. To endevor to preſerve that native and natural freedom which is in<g ref="char:EOLhyphen"/>veſted in us, that is to own Government and Gover<g ref="char:EOLhyphen"/>nours ſo far as they derive their power from the people.</p>
+            <p n="3">3. The Limitations that are given: 1. Affirmatively, <hi>as it is now eſtabliſhed;</hi> this word <hi>(now)</hi> carries us to the time paſt when it was not a Common wealth, but a Kingdom; or elſe it carries us to have reference to the time to come, and then it holds forth no more then this, that we are ſo far bound to it, as it ſhall continue thus ſetled; ſeeing this may happily not be the exact Model,
+<pb n="3" facs="tcp:118046:3"/>but onely made uſe of till another full Repreſentative may be called; and why any ſhould boggle at either of theſe, I ſee not; for though the Government may not in all points ſuit their apprehenſions, yet our caſe would be far worſe if there were none at all, and per<g ref="char:EOLhyphen"/>haps for ſuch a time as this, the fitteſt expedient which could be found out. The 2. Limitation, is Negative, <hi>without a King and Houſe of Lords;</hi> which ſeems to mean an utter extirpation both of Monarchy and Ari<g ref="char:EOLhyphen"/>ſtocracy, and the ſetting up of a Government by a State near to Democracy; ſo making the chief power to reſt in the people; which if it may be rightly compoſed, in my apprehenſion, cannot but be a happy and a laſting Government; for it is moſt ſutable to reaſon that no man ſhould bear rule over others, but by their con<g ref="char:EOLhyphen"/>ſents, and in caſe of male-adminiſtration to be queſtio<g ref="char:EOLhyphen"/>ned by them.</p>
+            <p>By this time you have ſeen what the ſum and ſcope of the <hi>Engagement</hi> is; Give me leave to reſolve and anſwer ſuch Queſtions and Objections as are uſually brought againſt it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>1</label> The firſt and main one, is the Covenant,which we have ſolemnly taken; unto which I would anſwer ſome general things.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, we are to diſtinguiſh between the letter of the Covenant, and the intent of it; Now the Preface to the Covenant, makes theſe two to be main ends of it, <hi>the preſervation of our ſelves, and our Religion, from ruine and deſtruction:</hi> Now if any Articles in the Covenant ſhall in the future, croſs either of theſe: then cer<g ref="char:EOLhyphen"/>tainly they that are Covenanteers are diſobliged in ſuch a caſe; for no ſober men will ever engage againſt their own ſafety, or the ſafety of Religion, which is more dear to them then their own.</p>
+            <p n="2">2. Though the whole Covenant be to be taken together, yet ſo as matters of lower concernment are to give way
+<pb n="4" facs="tcp:118046:4"/>to matters of higher concernment;
+<note place="margin">
+                  <hi>Honeſtè ab ejus foedere receditur qui communem li<g ref="char:EOLhyphen"/>bertatem oppri<g ref="char:EOLhyphen"/>mere conatur &amp; tentat.</hi> Thucyd. lib. 3.</note> ſo as if the preſerva<g ref="char:EOLhyphen"/>tion of the Kings perſon may be thought incompatible, with the preſervation of juſt Laws, and the ſafety of the People, then the depoſition and deveſting of the King of his Office and place, can be no breach of the Covenant: and in caſe it were preſumed that the thing was not ſo equitable in the perſons that did it; yet ſuppoſing there were ſuch a guilt on the perſon of the King, and that in the eye of the Law, both of God and man; then cannot this Engagement in this particular in the leaſt oppoſe the Covenant; and if no man dare free him from ſuch a guilt, I ſee not how they can accuſe ſuch as engage upon his removeal, on the moſt prudential way for their own ſafety. The like may be ſaid of the Houſe of Lords, whoſe ſitting there was never from the People, but perſons that received their Honor from the King, and made themſelves higher then all the Commons of <hi>England;</hi> yea, and took the boldneſs to maintain it, that the Commons were to propound, and the Lords were to judge: and laſtly, that none might queſtion their Actions, but by their conſent; how ſuch a creature therefore might be conſiſtent with a free Common-wealth, I leave it to ſober men to judge; or how ſuch ſhould be permitted to be Judges over a Free people that were never choſen by them, can conſiſt with reaſon and freedom.</p>
+            <p n="3">3. <note place="margin">
+                  <hi>Suprema pericula ſemper dant ve<g ref="char:EOLhyphen"/>niam culpa.</hi> Cyp. Epiſt. <hi>Impia eſt promiſ<g ref="char:EOLhyphen"/>ſio quae ſcelere ad<g ref="char:EOLhyphen"/>impletur.</hi> Rener. de jurand. cap. 3.</note> The ſafety of the People, is the Paramount Law; this therefore takes the firſt place in the Covenant, as moſt neceſſary; for the King, and other Officers, are but Servants of the Common-wealth, and have their riſe from it, and their maintenance by it; and although there were no Parliament, as there is no King, nor Houſe of Peers, yet every one were bound by that Law to uſe his beſt endeavour, to ſeek the welfare of the State. In a Ship, put caſe the Maſter and Mariners were drunk, or out of the Veſſel, ſo as the Ship were
+<pb n="5" facs="tcp:118046:4"/>in danger to ſuffer ſhipwrack, in ſuch a caſe Paſſengers might, by the ſame rule, endeavour the ſafety of it; and certainly much more in the Common-wealth; and if any ſuch Article could be ſuppoſed to be in our Solemn League and Covenant, which ſhould oppoſe this Maxim, we ought rather to repent of our raſhneſs, then perſiſt in it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>2</label> The ſecond thing objected, is, That there is not a full and free Parliament, and therefore I may not do it at their Command.</p>
+            <p>To which I Anſwer:</p>
+            <p n="1">1. If by a full Parliament, be meant the whole defi<g ref="char:EOLhyphen"/>nite number Elected and Choſen, ſuch a number is very ſeldom to be found, wherein there is the integral num<g ref="char:EOLhyphen"/>ber of all the Members; the Parliament was a true Par<g ref="char:EOLhyphen"/>liament, when many of ſuch as were Members of it fled to <hi>Oxford,</hi> and ſate in a Junto there; therefore, though a Parliament have not all its Members, yet it may be a true Parliament now, as then it was.</p>
+            <p n="2">2. The Queſtion is not whether it be ſuch and ſuch,
+<note place="margin">In rebus dubiis ac periculoſis im<g ref="char:EOLhyphen"/>minentibus eae conditiones acci<g ref="char:EOLhyphen"/>piendae quae ali<g ref="char:EOLhyphen"/>quid ſpei certè re<g ref="char:EOLhyphen"/>linquunt.</note> but whether it be one; if it be one, though not in all points as it has been, and hereafter it may be, yet it may challenge obedience; a Father has loſt one of his armes, and therefore imperfect; is alſo in priſon, and therefore not free; yet his child ſtands bound to obey him, as if he were both perfect, and free; if you could aſſimulate the caſe of the Parliament to this caſe (which in my apprehenſion you cannot) yet the Parliament commanding right things, it ought to be obeyed.</p>
+            <p n="3">3. In ſuch a turn of time as this has been, men cannot go by thoſe common principles, as when a State ſhall be ſettled; every Article in our Solemn Covenant can<g ref="char:EOLhyphen"/>not be juſtified by the Laws of this Nation, but yet it was very neceſſary and equitable to the rules of com<g ref="char:EOLhyphen"/>mon ſafety it ſhould be taken; even ſo we may ſay, that though there may be ſuppoſed defects in the Par<g ref="char:EOLhyphen"/>liament,
+<pb n="6" facs="tcp:118046:5"/>and a want of ſome of her integral parts; and withall, not in that conſtitution and condition it were to be wiſhed; yet at ſuch a time as this, wherein God has chalked out his own way, we are rather to ſtand a<g ref="char:EOLhyphen"/>doring his work, then make head againſt it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>3</label> But are we not bound to an old Government, by our <hi>Oath of Allegeance,</hi> to be true to the King, and his Poſterity?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>1</label> We are to ſuppoſe in every Oath, and Engagement, which men take, there are ſome conditions either to be ſuppoſed,
+<note place="margin">Aquin. Tanner 22. queſt. 89.</note> or expreſſed. <hi>I am bound to obey the King, ſo long, and ſo far as he is true to his Truſt;</hi> but if he prove unfaithful, and be thought unfit to Reign, my obliga<g ref="char:EOLhyphen"/>tion ceaſeth, and it is agreed by the School men; no man ſtands engaged in any matter, of which he can have no certain knowledge, further then when he took that Engagement, he thought it would be; in caſe it fall out otherwiſe, he cannot be ſaid to be bound: the change of the thing intended, changeth the Engage<g ref="char:EOLhyphen"/>ment. And for his Poſterity, as in the election of a King, the Poſterity of the King is elected; ſo in the depoſi<g ref="char:EOLhyphen"/>tion of a King, his Poſterity ceaſeth, as to right; King <hi>Saul</hi> being depoſed, his Poſterity loſt their Title to the Kingdom.</p>
+            <p n="2">2. <note place="margin">Rex eſt ſingulis major, univerſis minor.</note> It has often been obſerved, that the King is in<g ref="char:EOLhyphen"/>veſted with power above any particular Subject; but yet he is inferiour to them all, and that he is as far below a Common-wealth, as any particular perſon is below him, or elſe there had been no difference between a King of <hi>England,</hi> and <hi>Cambiſes</hi> the <hi>Perſian</hi> Emperour, that by a Law might do what he liſt; therefore if the power of the Repreſentatives of the Common-wealth be above a King, then certainly our obedience to them muſt take place above any other Power binding us.</p>
+            <p n="3">3. If providence do hold out another way of admi<g ref="char:EOLhyphen"/>niſtration, in the Government of this Common-wealth,
+<pb n="7" facs="tcp:118046:5"/>who are we, that we ſhould let God? And certainly God that changes times and Governments, would ra<g ref="char:EOLhyphen"/>ther have us ſoberly to follow his providence, then to think we, by our oppoſition, can croſs him in his way.</p>
+            <p n="4">4. Suppoſe a Government in all points were not right, yet in caſe it be all the viſible Authority that is then in being, and withall, command right things, I ſee not why it may not be obeyed without the croſſing of any former Oath, as it may appear in Chriſts paying the Didrachma to <hi>Caeſar;</hi> unto which children were not bound, but ſtrangers; and the Apoſtle exhorts them obedience to <hi>Caligula,</hi> and <hi>Nero,</hi> then Uſurpers, <hi>Rom.</hi> 13.</p>
+            <p n="5">5. If ſuch Oaths were in all points binding, that a King, and his Poſterity, in no caſe might be laid aſide, then a Government upon never ſuch immergencies, miſdemeanors or neceſſities of ſtate, might not be al<g ref="char:EOLhyphen"/>tered, which were to croſs the way that God hath taken from the beginning of the world in the changing of humane Titles and times.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">object. </seg>
+               </label> Again, if it be further ſaid, what ſay you then to the Oath which <hi>Joſhua</hi> made to the <hi>Gibeonites</hi> upon a miſtake? which yet having made it, he thought he was bound not to recede it from it; by the ſame reaſon in the caſe we have ſworn, although upon ſome miſtakes, yet our Oath muſt be kept unviolable.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> To which I Anſwer; It ſeems to me apparent that <hi>Joſhua,</hi> by the command of God ſhould have deſtroyed the <hi>Gibeonites,</hi> for no Oath of ours can diſoblige us from our obedience to God; yet it doth not hinder but God may diſpence with his own Law, as I think he did in this, though it be not expreſſed in the Text, <hi>Joſh.</hi> 9. as he did in <hi>Abrahams,</hi> caſe commanding him to kill his ſon contrary to a moral precept; and then if he diſpence with it, it is ſufficient warrant for us to reſt ſatisfied; and this ſeems to be <hi>Joſhuahs</hi> caſe; but now for us, we
+<pb n="8" facs="tcp:118046:6"/>are to hold to ſuch principles as Gods ordinary provi<g ref="char:EOLhyphen"/>dence holds forth.</p>
+            <p>Again, <hi>Joſhuahs</hi> Oath was only as a Magiſtrate, to ſuf<g ref="char:EOLhyphen"/>fer poor men to live under him as vaſſals and ſlaves, which is far different from ours, in having men to rule over us as Tyrants; for in caſe <hi>Joſhua</hi> ſhould have ſworn obedience to the <hi>Gibeonites,</hi> its a great queſtion whether then God would have diſpenced with his own law, and therefore it doth evidently appear that men are not bound to all ſuch unjuſt Oaths, as out of raſhneſs, or ig<g ref="char:EOLhyphen"/>norance, they may, upon ſome occaſions, be brought to take; for then <hi>Jephtas</hi> raſh vow, and <hi>Herods</hi> wicked and ſinful Oath might not have been broken; the which I think no ſerious or ſober man will affirm.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>4</label> But does not this ſubſcription juſtifie whatſoever has been the progreſs that has been made for the erecting of this Common-wealth?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> There is a double juſtification; of the fact, and of their perſons;
+<note place="margin">
+                  <hi>Sublata religione corruere rempub<g ref="char:EOLhyphen"/>licam oporlet, quo<g ref="char:EOLhyphen"/>niam ſublato Dei timore ſequitur impietas &amp; ruina imperiorum.</hi> Lo<g ref="char:EOLhyphen"/>pez. pag. 573. <hi>Grande quidem eſt procerem eſſe, ſed multò grandi<g ref="char:EOLhyphen"/>us eſt de proceri<g ref="char:EOLhyphen"/>bus judicare.</hi> Caſ. Ep.</note> now the fact may be lawful in it ſelf con<g ref="char:EOLhyphen"/>ſidered; as now to inſtance in the Kings caſe; his taxations of the people unjuſtly, his introducing of Popery into the Kingdom, making wars againſt his Parliament, and ſhedding of the blood of many of his ſubjects, by his Agents in the three Kingdoms, were ſo great, and ſo manifeſt, that I ſuppoſe few will deny but that there was ſuch a guilt on him, as that both in the eye of the Law of God, and man, he juſtly deſerved that which is now fallen on him; and if ſo, no man can deny the lawfulneſs of the thing; but as to the perſons that did it, whether they ſhould have done it, and at that time, and what intentions they had in ſo doing, none of theſe queſtions reach us, becauſe there is not the leaſt hint of them in the Engagement.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>5</label> Is there any probability of the reformation of Church, by this Engagement, which we have covenant<g ref="char:EOLhyphen"/>ed for?</p>
+            <pb n="9" facs="tcp:118046:6"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>1</label> The Parliament has taken the Covenant alſo; and if they fail in their truſt, it will be their ſin; for our parts we can do no more in our places, but endeavour it, and pray for it.</p>
+            <p n="2">2. No man is further bound to any perſon,
+<note place="margin">
+                  <hi>Omnes tyranni conflati ſunt per<g ref="char:EOLhyphen"/>fidia &amp; crudeli<g ref="char:EOLhyphen"/>tate.</hi> Lopez. p. 3. <hi>Fulcrum imperio<g ref="char:EOLhyphen"/>rum eſt ſervare religionem.</hi> Lipſ. <hi>Turbata religio politiam turbat.</hi> ibid.</note> or per<g ref="char:EOLhyphen"/>ſons inveſted with power, then they are true to their truſt: and if they prove otherwiſe, then they may be as juſtly depoſed, as the late King was.</p>
+            <p n="3">3. They that are true to a Chriſtian Common-wealth, as ſuch, thoſe cannot but be true and faithful to the Church; for the ruine of States begins at the Church; and if the Church be oppoſed, God will not bleſs that State: the reaſon is, becauſe a well-reformed Church, is the greateſt preſervative of a Common-wealth.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>6</label> Was it the intention, in the leaſt, either of the <hi>Scots,</hi> or <hi>Engliſh,</hi> when they entred into this ſolemn Cove<g ref="char:EOLhyphen"/>nant to alter the Government?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>1</label> It ſeems to me, that that limitation which is made of the preſervation of the Kings perſon upon ſuch terms, as was before mentioned, was put in by way of caution, ſuppoſing that there might ſuch emergencies come to paſs, as might occaſion ſuch a thing; otherwiſe why would they have put in that limitation of preſer<g ref="char:EOLhyphen"/>vation of juſt Laws, but that it limits out, that in caſe the King ſhould ſeek the deſtruction of juſt Laws, that our Covenant did not then oblige us.</p>
+            <p n="2">2. For our intentions, they are to be conſidered either as general, or ſpecial; now in any humane thing it is not poſſible for men to foreſee all the ſpecial conſe<g ref="char:EOLhyphen"/>quences which may fall out upon any engagement which ſhall be made; it is ſufficient that the general ends of it be kept firm; at the entrance into the Covenant, no man would have imagined ſo much blood ſhould have been ſhed, or that the Kings heart would have been ſo hard<g ref="char:EOLhyphen"/>ned as it was; and therefore in ſpecial, I believe a change of Government was not intended by any, ſaving as I have ſaid, in general terms.</p>
+            <pb n="10" facs="tcp:118046:7"/>
+            <p n="3">3. I do not ſee but the Covenant we have taken, and the Engagement now required, may well ſtand toge<g ref="char:EOLhyphen"/>ther; our Covenant as has been ſaid, binds with a limi<g ref="char:EOLhyphen"/>tation to preſerve the Kings perſon, but it binds without any limitation, to bring Delinquents to puniſhment; and therefore, in caſe it may appear, that the King was the greateſt Delinquent; then the latter Article, which is without any limitation, ought either to be expunged, or of neceſſity to take place: perhaps ſome would ſeek to blind our eyes, with that old maxim of ſlavery, <hi>viz.</hi> That the Kings of <hi>Engl.</hi> can do no wrong; whereas indeed ſuch a Principle puts them in a capacity of doing wrong, and the greateſt Tyranny without controule, which were to make the King an abſolute Tyrant, and the people abſolute ſlaves: again, if the King can do no wrong that commands, why then ſhould his Officers that are put up<g ref="char:EOLhyphen"/>on unjuſt actings, by his inſtigation, and Authority, be accounted guilty, and to ſuffer for their obedience? and why ſhould the Capital Offender eſcape the ſword of Juſtice as guiltleſs, and poor underlings, ſuffer at the Bar of Juſtice, as guilty? It is ſaid of <hi>David,</hi> that he had ſlain <hi>
+                  <g ref="char:V">Ʋ</g>riah</hi> by the ſword of the children of <hi>Ammon:</hi> and in another place <hi>David</hi> confeſſed, <hi>I have ſinned, but what have theſe ſheep done?</hi> therefore a King may do wrong as well as others.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>7</label> But will not this Engagement divide between the two Nations?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>1</label> They have no reaſon that it ſhould; for what has any Nation to do with thoſe affairs that are proper and intrinſecal to themſelves,
+<note place="margin">
+                  <hi>Multi ſibi &amp; aliis calamitates accer<g ref="char:EOLhyphen"/>ſunt, qui primas occaſiones lapſu<g ref="char:EOLhyphen"/>um non vitant.</hi> Lop. pag. 377. Vide Ruther. Lexet Rex. queſt 31.</note> and peculiarly concern its own preſervation? we were not only leſs then men, but worſe then Beaſts, if we ſhould not do it; for what of<g ref="char:EOLhyphen"/>fence can this be to them, to hear that we engage our ſelves to preſerve our own Common-wealth, ſo long as our Engagement binds us not to act any thing prejudi<g ref="char:EOLhyphen"/>cial to them, unleſs they have ſome envious affection to
+<pb n="11" facs="tcp:118046:7"/>us, hoping by our diviſions to make us a prey unto them? otherwiſe it may be an offence taken, but not given.</p>
+            <p n="2">2. There is no ſuch great difference between the tranſactions of the <hi>Scottiſh</hi> affairs and ours, that ſhould make ſuch a diviſion; for what great difference is there between binding a King hand and foot, whom they dare not otherwiſe truſt, or elſe by force and Arms to keep him out, and between his total ejection as a man perilous to ſit in ſo high a place of Truſt? Surely to me there doth appear no great difference between their change of Government and our Government changed, unleſs it be in this, that in the one, the Tyrant is un<g ref="char:EOLhyphen"/>horſt, and in the other, he is bound legs and arms in the Saddle.</p>
+            <p n="3">3. <note place="margin">
+                  <hi>Falſus amor plus nocet quam pro<g ref="char:EOLhyphen"/>feſſum odium.</hi> Lip. <hi>
+                     <g ref="char:V">Ʋ</g>t malum cibum nec retinere poſſis ſine noxa, nec re<g ref="char:EOLhyphen"/>jicere ſine moleſtia, ita nec malum Principem.</hi> Plut.</note> That which is pretended to bring diviſion be<g ref="char:EOLhyphen"/>tween the two Nations, may happily prove the cauſe of diviſions amongſt the <hi>Scots,</hi> that deſire ſo much a King, and ſay, as they in <hi>Sauls,</hi> nay, but we will have a King to raign over us; for if he get into the Saddle, he may poſſibly get ſome to looſe him, and then he will play the <hi>Rex,</hi> and as <hi>Sampſon</hi> did, lay about him; I ſay no more; I wiſh for the ſakes of many honeſt <hi>Preſ<g ref="char:EOLhyphen"/>byterians</hi> amongſt them, my words may not prove a true propheſie; for if it do, our brethren perhaps may repent when it is too late.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> Whether this laſt Expedition of our <hi>Engliſh</hi> Army into <hi>Scotland</hi> be lawful?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> To which I Anſwer. </p>
+            <p>Firſt,
+<note place="margin">Aug. cont. Fauſt. <hi>Bella ſuſcepta cae<g ref="char:EOLhyphen"/>ca cupiditate &amp; ira, plerum<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> pro<g ref="char:EOLhyphen"/>cedunt &amp; deſinunt infaeliciter.</hi> Petr. ad Can.</note> There are ſome cauſes which render a War to be unlawful.</p>
+            <p n="1">1. If it be undertaken from height of pride, and a deſire of Rule and tyrannizing over a Nation; and therefore if a War be taken <hi>ex libidine dominandi,</hi> it cannot be good; the reaſon is, becauſe every people ſhould be content with their preſent lot; this hath not been the ground
+<pb n="12" facs="tcp:118046:8"/>of our motion, which may appear by our often tenders of terms of peace, which they have as often rejected.</p>
+            <p n="2">2. <note place="margin">
+                  <hi>John Stow</hi> Chron. of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+               </note> If it be undertaken for hopes of gain; the <hi>Spaniards</hi> encouraged their Souldiers to come to the Conqueſt of <hi>England,</hi> from the plentiful things in this Land; but this was confuted by Gods immediate hand againſt them; this could not be our ground of marching into <hi>Scotland;</hi> for it is a poor Countrey, and the charge to Conquer and keep it, would in no wiſe prove advan<g ref="char:EOLhyphen"/>tagious.</p>
+            <p n="3">3. <note place="margin">Tunc ſolum utile eſt concurrere ad arma, cum juſtitia apud hoſtem non poteſt invenire locum.</note> If it be undertaken to revenge a private quarrel; a publike State ſtands not engaged to revenge private quarrels; but there are other private Courts appointed for the ending of ſuch, as the Court of Admiralty, which is common to ſeveral Nations; Notwithſtanding in caſe ſuch Courts ſhould be patronized by the Supream Au<g ref="char:EOLhyphen"/>thority thereof,
+<note place="margin">Caſiad. l. 3. Ep. 1.</note> either not to act, or to do injuſtice, then the quarrel may become National; this is not our caſe, as ſhall appear, becauſe the ſame Courts are continued, and ſtrict juſtice executed on offenders, unleſs in the caſe named.</p>
+            <p>Secondly,
+<note place="margin">
+                  <hi>
+                     <g ref="char:V">Ʋ</g>bi juſtus exerci<g ref="char:EOLhyphen"/>tus deeſt qui ho<g ref="char:EOLhyphen"/>ſtibus opponi &amp; ſatis noſtra curare poſſit, tunc injuriis hoſtium patemus; dein<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> bellum latrocinium potius quam bellum.</hi> Polyb. lib. 5.</note> There are ſome juſt cauſes why a War way be undertaken.</p>
+            <p n="1">1. When publique injuries are done by one Nation againſt another; There were injuries done by <hi>Amaleck</hi> againſt <hi>Iſrael,</hi> and thereupon <hi>Iſrael</hi> had a command from God to ſmite <hi>Amaleck,</hi> 1 <hi>Sam.</hi> 15.2. I ſuppoſe no knowing man will excuſe <hi>Scotland</hi> of acting publique injuries againſt <hi>England;</hi> I ſhall ſilently paſs over what injuries were done us, while they pretended to be our friends, which were many and unſufferable, and onely pitch upon their Invaſion by Duke <hi>Hamilton,</hi> and that by Authority of their Parliament, whoſe carriage was ſo exceeding baſe and cruel, that many in <hi>Weſtmerland, Cumberland</hi> and <hi>Lancaſhire,</hi> were forced to leave their own homes, to live in Woods and Mountains, and ſuch
+<pb n="13" facs="tcp:118046:8"/>as ſtayed behind were beaten, and had their houſes rifled, their houſhold-ſtuffe carryed away, and their Cattle driven away, and ſold before their eyes; of which injuſtice no recompence hath been made unto this day; nay, though the recompence hath been demanded in a fait way at their hands; now whether this may not be a juſt cauſe of this Expedition, let unprejudiced men judge: for my part it is clear to me it is.</p>
+            <p n="2">2. <note place="margin">
+                  <hi>Bellum in hoſtile ſolum transſerre quantum poſſimus debemus; nam ea ratione terretur hoſtis &amp; ad ſua tutanda revoca<g ref="char:EOLhyphen"/>tur,</hi> Polib. ibid. <hi>Bellorum res bene diſponuntur cum in pace tractan<g ref="char:EOLhyphen"/>tur.</hi> Caſiad. Ep.</note> Another juſt cauſe of War may be by way of pre<g ref="char:EOLhyphen"/>vention, as in the former War againſt the King it was by way of prevention, leaſt when he had gathered thouſands of armed men, Papiſts and others, the Parlia<g ref="char:EOLhyphen"/>ment might have been ſurpriſed, which undoubtedly was their plot. It is evident that the <hi>Scots</hi> really in<g ref="char:EOLhyphen"/>tended to invade <hi>England,</hi> had they not been prevented by our Armies ſeaſonable marching in amongſt them, as may appear from Chancellor <hi>Londons</hi> Letter taken at <hi>Dunbar,</hi> wherein it plainly appears, that on their Kings ſigning that Declaration for the maintenance of the Covenant, Religion, and ſuppreſſion of Malignants, ſent unto him (the which hath ſince been broken by them all,) he ſhould have the whole body of that King<g ref="char:EOLhyphen"/>dom to aſſiſt him in his coming into <hi>England;</hi> they ſay the way to conquer <hi>Rome,</hi> is to fight in <hi>Italy;</hi> and we are ſure the way to keep <hi>Scotland</hi> quiet, is to March in among them.</p>
+            <p>To conclude,
+<note place="margin">
+                  <hi>Bella nihil aliud ſunt quam ſcopae aſperrimae quibus mundus ſordido excrementoru<g ref="char:cmbAbbrStroke">̄</g> cu<g ref="char:EOLhyphen"/>mulo liberatur.</hi> pet. Can. p. 94.</note> for my part for the ſakes of many god<g ref="char:EOLhyphen"/>ly people of that Nation, who in the ſimplicity of their hearts have eſpouſed themſelves in this quarrel (as thoſe did that went with <hi>Abſolon</hi>) not underſtanding the deſign that is now driving on: I wiſh there might yet be a happy agreement; but truly I fear that party are ſo over-powred, that the Sword muſt end the controverſie, which happily may be better for them that are godly, who peradventure may ſee ſomething among them, which is the cauſe of this miſery; The Lord makes War
+<pb n="14" facs="tcp:118046:9"/>as a means to purge away droſs and corruption out of a Nation. Two things I have obſerved in that Nation, The one is the great oppreſſion of Landlords grinding the faces of the poor, ſo as they live more like Turkiſh Slaves then Chriſtians: The other is their promiſcuous admiſſion of all to the Sacrament of the Lords Supper, unleſs it be perſons extreamly ſcandalous; Theſe two are ſo notoriouſly known and confeſſed by them, as needs no further proof. Whether this War may not fall heavie on the godly for theſe things, I leave to themſelves in this their day of affliction to examine.
+<note place="margin">
+                  <hi>Saepe fit in bellis ut victor fleat &amp; victus intereat; id eſt, ut bella ſint penae tam victori quam victo.</hi> Ibid. pag. 93.</note> Now in the behalf of ſo many as are godly in <hi>England,</hi> I dare ſay, they have no joy in that any harm doth befall the Lords people, if it could with their own ſafety be otherwiſe: It is ſad in War when the Conqueror weeps, and the conquered are undone.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
